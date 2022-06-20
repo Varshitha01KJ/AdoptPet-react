@@ -1,0 +1,88 @@
+.petbg{
+  background-color:lightskyblue;
+  font-family: 'Poppins', sans-serif;
+  overflow-y: hidden;
+ }
+.dog{
+    width: 40px;
+    height: 40px;
+}
+.AdoptTop-left {
+    position: absolute;
+    top: 15px;
+    left: 16px;
+  }
+.DogPosition{
+    position: relative;
+   }
+.DogPosition-left {
+    position: absolute;
+    top: 40%;
+    left: 32px;
+  }
+.CatPosition-bottom {
+    position: absolute;
+    top: 75%;
+    left: 32px;
+  }
+  .dogps{
+    position: relative;
+  }
+  .dogps-left{
+    position: absolute;
+    left: 10px; 
+  }
+  .catps{
+    position: relative;
+  }
+  .catps-middle{
+    position: absolute;
+    left: 35%;
+  }
+  .rabbitps{
+    position: relative;
+  }
+  .rabbitps-end{
+    position: absolute;
+    left: 65%;
+  }
+  .search{
+    position: relative ;
+    padding: 5px ;
+  }
+  .search1{
+    position: absolute ;
+    left: 10% ;
+    top:38% ;
+  }
+  .RetrieverDogPosition{
+    position: relative;
+  }
+.RetrieverDogPosition-left {
+    position: absolute;
+    top: 28%;
+    left: 30px;
+  }
+ .footer{
+    position: fixed !important; 
+    bottom: 0px;
+    left: 0px;
+    width: 100%;
+  }
+  .imgaes{
+    width: 400%;
+   height: 250px;
+   border-radius: 20px;
+  }
+  .adoptimg{
+    width: 100%;
+   height: 400px;
+  }
+  .image{
+    width: 100%;
+   height: 250px;
+   border-radius: 20px;
+  }
+  
+  
+  
